@@ -1,0 +1,67 @@
+{
+    "employee": [
+        {
+        "claimStatus":true,
+        "employeeId": 101,
+        "employeeName": "Chaitanya",
+        "claimType": [
+            "LifeInsurance",
+            "AccidentalInsurance",
+            "healthInsurance"
+        ],
+        "cliamProgram": "LifeInsurance",
+        "claimStarttDate": "2020-07-16",
+        "claimEndDate": "2040-07-15"
+        },
+        {
+            "employeeId": 102,
+            "claimStatus":true,
+            "employeeName": "Sunita",
+            "claimType": [
+                "LifeInsurance",
+                "AccidentalInsurance",
+                "healthInsurance"
+            ],
+            "cliamProgram": "AccidentalInsurance",
+            "claimStarttDate": "2020-08-16",
+            "claimEndDate": "2021-08-15"
+            },{
+                "employeeId": 103,
+                "claimStatus":false,
+                "employeeName": "Abhi",
+                "claimType": [
+                    "LifeInsurance",
+                    "AccidentalInsurance",
+                    "healthInsurance"
+                ],
+                "cliamProgram": "healthInsurance",
+                "claimStarttDate": "2020-07-16",
+                "claimEndDate": "2021-07-15"
+                },{
+                    "employeeId": 104,
+                    "claimStatus":true,
+                    "employeeName": "lakshman",
+                    "claimType": [
+                        "LifeInsurance",
+                        "AccidentalInsurance",
+                        "healthInsurance"
+                    ],
+                    "cliamProgram": "LifeInsurance",
+                    "claimStarttDate": "2020-05-16",
+                    "claimEndDate": "2040-05-15"
+                    },{
+                        "employeeId": 105,
+                        "claimStatus":true,
+                        "employeeName": "lakshmi",
+                        "claimType": [
+                            "LifeInsurance",
+                            "AccidentalInsurance",
+                            "healthInsurance"
+                        ],
+                        "cliamProgram": "healthInsurance",
+                        "claimStarttDate": "2020-07-16",
+                        "claimEndDate": "2022-07-15"
+                        }
+
+]
+}
